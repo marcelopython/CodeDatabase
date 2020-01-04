@@ -5,7 +5,6 @@ namespace CodePress\CodeDatabase;
 use CodePress\CodeDatabase\Contracts\CriteriaCollection;
 use CodePress\CodeDatabase\Contracts\CriteriaInterface;
 use CodePress\CodeDatabase\Contracts\RepositoryInterface;
-use phpDocumentor\Reflection\Types\Integer;
 
 abstract class AbstractRepository implements RepositoryInterface, CriteriaCollection
 {
