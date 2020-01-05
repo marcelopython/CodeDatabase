@@ -1,7 +1,6 @@
 {
   "name": "codepress/code-database",
   "require": {
-    "php": "^7.2",
     "illuminate/database": "^6.0"
   },
 
