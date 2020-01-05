@@ -1,5 +1,5 @@
 {
-   "name": "database/criteria",
+   "name": "codepress/criteria_database",
   "require": {
      "php": ">=7.4",
     "illuminate/database": "^6.0"
