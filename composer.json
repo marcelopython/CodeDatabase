@@ -1,5 +1,5 @@
 {
-  "name": "codepress/code-database",
+   "name": "database/criteria",
   "require": {
     "illuminate/database": "^6.0"
   },
