@@ -1,5 +1,19 @@
 {
    "name": "code_database/criteria_database",
+  "description": "Repository pattern library based in laravel",
+  "license": "MIT",
+  "keywords": [
+    "laravel",
+    "repository",
+    "criteria",
+    "database"
+  ],
+  "authors": [
+    {
+      "name": "Marcelo Silva",
+      "email": "msr88957@gmail.com"
+    }
+  ],
   "require": {
      "php": ">=7.4",
     "illuminate/database": "^6.0"
