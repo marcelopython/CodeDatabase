@@ -8,7 +8,6 @@
     "criteria",
     "database"
   ],
-  "minimum-stability": "dev",
   "authors": [
     {
       "name": "Marcelo Silva",
