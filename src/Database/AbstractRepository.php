@@ -9,10 +9,9 @@ use CodePress\CodeDatabase\Contracts\RepositoryInterface;
 abstract class AbstractRepository implements RepositoryInterface, CriteriaCollection
 {
 
-    protected object $model;
-    protected bool $isIgnoreCriteria = false;
-
-    protected array $criteriaCollection = [];
+    protected $model;
+    protected $isIgnoreCriteria = false;
+    protected $criteriaCollection = [];
 
     public function __construct()
     {
